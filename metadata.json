@@ -1,0 +1,6 @@
+{
+  "name": "Vngrow Express - Portal Quản Trị Logistics & CRM",
+  "description": "Hệ thống quản lý quan hệ khách hàng (CRM), theo dõi hiệu suất cộng tác viên, quản lý booking, vận đơn quốc tế và đối soát hoa hồng Vngrow Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
